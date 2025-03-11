@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.all-revert{
+    *{
+        font-size: revert;
+        font-weight: revert;
+        list-style: revert;
+    }
+    ol, ul, menu, h1, h2, h3, h4, h5, h6, p, a {
+        all: revert;
+    }
+    img,
+    video {
+        max-width: 50%;
+        height: auto;
+        margin: auto;
+    }
+}
