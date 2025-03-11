@@ -9,7 +9,7 @@
         "php": "^8.2",
         "ext-dom": "*",
         "astrotomic/laravel-translatable": "^11.15",
-        "filament/filament": "~3.2.0",
+        "filament/filament": "^3.2.0",
         "laravel/framework": "^11.9",
         "laravel/octane": "^2.5",
         "laravel/sanctum": "^4.0",
